@@ -27,6 +27,7 @@ Each step must:
 ---
 
 ### **Example Output (Time Elapsed Included)**  [0.00s] Order received: { orderId: 123 }
+[0.00s] Order received: { orderId: 123 }
 [3.01s] Preparing food...
 [3.01s] Food is ready: { orderId: 123, foodDetails: 'Burger & Fries' }
 [5.02s] Packing order...
